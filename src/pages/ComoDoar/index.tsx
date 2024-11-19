@@ -27,7 +27,7 @@ export default function ComoDoar() {
                 </div>
                 
                 <p className="mt-4">
-                    Ou, se preferir, copie nossa chave PIX e faça uma transferência diretamente pelo seu aplicativo bancário.
+                    
                 </p>
             </div>
         </Header>
